@@ -1,0 +1,23 @@
+{
+  "name": "json-hierarchy-transform",
+  "version": "0.1.0",
+  "description": "Generation and transformation JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgundutkan/json-hierarchy-transform.git"
+  },
+  "keywords": [
+    "json",
+    "hierarchy"
+  ],
+  "author": "olgundutkan <olgundutkan@gmail.com> (https://github.com/olgundutkan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olgundutkan/json-hierarchy-transform/issues"
+  },
+  "homepage": "https://github.com/olgundutkan/json-hierarchy-transform#readme"
+}
